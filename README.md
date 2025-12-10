@@ -1,6 +1,4 @@
 # Customer_Churn-Exploratory-Analysis
-Here is a **clean, professional, GitHub-ready project description** based on your *Customer Churn Exploratory Analysis* notebook and insights:
-
 ---
 
 ## 📊 Customer Churn – Exploratory Data Analysis (EDA)
